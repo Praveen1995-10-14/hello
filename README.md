@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # HelloMicroverse
 
+# Getting started section
 
 >The main goals of this project are:
  - How to create branches with different base branches.
@@ -10,14 +11,21 @@
  - Write descriptive to understand commit messages.
  - Write short, detailed and easy to understand descriptions of pull requests.
  - Demonstrate an ability to submit a project for code review.
-# Getting started section
-  - In this project,3 files are added,
+
+
+  - I used vsCode as my code editor.
+
+  - In my vsCode i made 3 files :
 
   - A .html file that includes a header with the text "Hello Microverse!".
 
   - A .css file that includes one class with styles for your header.
 
   - A test.md file with the text "This file should be ignored by git".
+
+  - with the help of gitbash i initialised all my files ,open pull request and the make them commit on my github.
+
+
 
 
 ## Built With
