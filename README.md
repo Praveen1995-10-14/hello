@@ -11,6 +11,7 @@
  - Write short, detailed and easy to understand descriptions of pull requests.
  - Demonstrate an ability to submit a project for code review.
 # Getting started section
+  - In this project,3 files are added,
 
   - A .html file that includes a header with the text "Hello Microverse!".
 
@@ -51,7 +52,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- Motivated
+
 
 
 ## 📝 License
