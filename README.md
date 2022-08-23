@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # HelloMicroverse
 
+
 >The main goals of this project are:
  - How to create branches with different base branches.
  - To deal with version control.
@@ -17,6 +18,7 @@
 
   - A test.md file with the text "This file should be ignored by git".
 
+
 ## Built With
 
 - HTML
@@ -32,6 +34,7 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/praveen-kumar-85791a101/)
 
 
+
 ## 🤝 Contributing
 
 - Contributions, issues, and feature requests are welcome!
@@ -43,10 +46,12 @@
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Inspiration
+
 
 
 ## 📝 License
