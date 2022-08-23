@@ -3,16 +3,6 @@
 
 # Getting started section
 
->The main goals of this project are:
- - How to create branches with different base branches.
- - To deal with version control.
- - Follow GitHub flow.
- - Open pull request.
- - Write descriptive to understand commit messages.
- - Write short, detailed and easy to understand descriptions of pull requests.
- - Demonstrate an ability to submit a project for code review.
-
-
   - I used vsCode as my code editor.
 
   - In my vsCode i made 3 files :
