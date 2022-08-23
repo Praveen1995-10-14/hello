@@ -10,7 +10,7 @@
  - Write descriptive to understand commit messages.
  - Write short, detailed and easy to understand descriptions of pull requests.
  - Demonstrate an ability to submit a project for code review.
-# In this project,3 files are added,
+# Getting started section
 
   - A .html file that includes a header with the text "Hello Microverse!".
 
