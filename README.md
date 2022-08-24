@@ -1,20 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # HelloMicroverse
 
-# Getting started section
-
-  - I used vsCode as my code editor.
-
-  - In my vsCode i made 3 files :
-
-  - A .html file that includes a header with the text "Hello Microverse!".
-
-  - A .css file that includes one class with styles for your header.
-
-  - A test.md file with the text "This file should be ignored by git".
-
-  - with the help of gitbash i initialised all my files ,open pull request and the make them commit on my github.
-
+> This is a Microverse Day2 project in which we have to create a practice repository.
 
 
 
@@ -23,14 +10,41 @@
 - HTML
 - CSS
 - Linters
+- GIT/GITHUB
+ 
+ 
+# Getting started section
+
+> To check my project, please follow these steps:
+
+  - On GitHub.com, go to the main page of the repository.
+
+  - Above the list of files, click the green "code" button.
+
+  - Copy the URL for the repository.
+
+  - Open Git Bash.
+
+  - Change the current working directory to the location     where you want the cloned directory.
+
+  - Type git clone, and then paste the URL you copied earlier: $ git@github.com:Praveen1995-10-14/hello.git.
+
+  - Press ENTER to create your local clone.
+
+  - Open the folder with your integrated development environment (IDE).
+
+  - You can check a live preview opening the HTML with a browser.
+
+ > NOTE:
+   This is an early version of the project. You will not find any relevant content right now, but you'll in the coming soon version.
 
 
 ## Authors
 
 👤 **Praveen Kumar**
 
-- GitHub: [@Praveen1995-10-14](https://github.com/Praveen1995-10-14)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/praveen-kumar-85791a101/)
+- GitHub  :  [@Praveen1995-10-14](https://github.com/Praveen1995-10-14)
+- LinkedIn:  [LinkedIn](https://www.linkedin.com/in/praveen-kumar-85791a101/)
 
 
 
@@ -57,3 +71,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
